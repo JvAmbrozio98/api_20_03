@@ -4,7 +4,11 @@ from pydantic import BaseModel
 
 from fastapi import FastAPI
 
-app = FastAPI()
+app = FastAPI(
+    title="API do Unipao",
+    description="Essa API serve para cálcular a previsão de preço de uma ação na bolsa.",
+    docs_url='/docs' # Habilitar o swagger
+)
 
 class InfoPrevisao(BaseModel):
     empresa : str
