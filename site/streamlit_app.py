@@ -10,3 +10,7 @@ opcoes = ["aapl"]
 
 # Criando o combobox
 escolha = st.selectbox("Empresa:", opcoes)
+
+volume = st.number_input("Volume:", step=0.01)
+
+prev_fecham = st.number_input("Previsão de Fechamento:", step=0.01)
