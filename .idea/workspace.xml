@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdd843df-914e-4b0e-a3f2-d314d97d16d1" name="Changes" comment="tes">
+    <list default="true" id="bdd843df-914e-4b0e-a3f2-d314d97d16d1" name="Changes" comment="Adcionado o swagger">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,11 +130,20 @@
       <option name="project" value="LOCAL" />
       <updated>1742516731158</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adcionado o swagger">
+      <option name="closed" value="true" />
+      <created>1744328138829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744328138829</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tes" />
-    <option name="LAST_COMMIT_MESSAGE" value="tes" />
+    <MESSAGE value="Adcionado o swagger" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adcionado o swagger" />
   </component>
 </project>
